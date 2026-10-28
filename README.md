@@ -6,6 +6,8 @@
 
 ### Full-Stack Developer · React.js · Next.js · TypeScript
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript; alt="Typing SVG" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+modern+web+apps;React+%7C+Next.js+%7C+TypeScript;Node.js+%2B+Express+%2B+MongoDB" alt="Typing SVG" />
 
 <br/>
