@@ -10,6 +10,7 @@
 
 <br/>
 
+<a href="https://sabbir-ahammed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sabbir-pavel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sabbir.ah799@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/sabbir-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -25,6 +26,7 @@
 - 🔭 Building responsive, clean UIs with **React.js** and **Next.js**
 - 🌱 Currently learning **Node.js, Express.js and MongoDB** to become full-stack
 - 🎓 Physics graduate turned web developer
+- 🌐 Portfolio: **[sabbir-ahammed.vercel.app](https://sabbir-ahammed.vercel.app/)**
 - 📫 Reach me at **sabbir.ah799@gmail.com**
 - 💼 Open to Junior Frontend / React.js / Full-Stack roles (on-site & remote)
 
@@ -37,8 +39,10 @@
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 
-**Backend (learning)**
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
@@ -55,8 +59,8 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | **DevStack** | Developer resource hub built with modern frontend tooling | [Live](https://sabbir-dev-stack.netlify.app/) · [Code](https://github.com/sabbir-codes/B14-A05-DevStack-final) |
-| **Bazar Dor** | Add a one-line description here | [Live](https://b14-a7-bazardor.vercel.app/) · [Code]([#](https://github.com/sabbir-codes/b14-a7-bazardor)) |
-| **FitLog — Gym Companion** | Add a one-line description here | [Live](https://sabbir-fitlog-nextjs.netlify.app/) · [Code](https://github.com/sabbir-codes/B14-A6-Fit-Log) |
+| **Bazar Dor** | Add a one-line description here | [Live](#) · [Code](#) |
+| **FitLog — Gym Companion** | Add a one-line description here | [Live](#) · [Code](#) |
 
 ---
 
