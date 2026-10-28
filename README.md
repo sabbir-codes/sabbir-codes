@@ -55,8 +55,8 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | **DevStack** | Developer resource hub built with modern frontend tooling | [Live](https://sabbir-dev-stack.netlify.app/) · [Code](https://github.com/sabbir-codes/B14-A05-DevStack-final) |
-| **Bazar Dor** | Add a one-line description here | [Live](#) · [Code](#) |
-| **FitLog — Gym Companion** | Add a one-line description here | [Live](#) · [Code](#) |
+| **Bazar Dor** | Add a one-line description here | [Live](https://b14-a7-bazardor.vercel.app/) · [Code]([#](https://github.com/sabbir-codes/b14-a7-bazardor)) |
+| **FitLog — Gym Companion** | Add a one-line description here | [Live](https://sabbir-fitlog-nextjs.netlify.app/) · [Code](https://github.com/sabbir-codes/B14-A6-Fit-Log) |
 
 ---
 
